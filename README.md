@@ -1,6 +1,3 @@
-# Uber-Ride-Analysis-Madurai
-Uber Ride Analysis project using MySQL
-
 # Uber Ride Analysis – Madurai
 
 ## Project Overview
